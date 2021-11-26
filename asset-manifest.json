@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fcc-quotes-app/static/css/main.210a532b.chunk.css",
+    "main.js": "/fcc-quotes-app/static/js/main.b7b00fdf.chunk.js",
+    "main.js.map": "/fcc-quotes-app/static/js/main.b7b00fdf.chunk.js.map",
+    "runtime-main.js": "/fcc-quotes-app/static/js/runtime-main.c5a5832e.js",
+    "runtime-main.js.map": "/fcc-quotes-app/static/js/runtime-main.c5a5832e.js.map",
+    "static/js/2.86756bdd.chunk.js": "/fcc-quotes-app/static/js/2.86756bdd.chunk.js",
+    "static/js/2.86756bdd.chunk.js.map": "/fcc-quotes-app/static/js/2.86756bdd.chunk.js.map",
+    "index.html": "/fcc-quotes-app/index.html",
+    "static/css/main.210a532b.chunk.css.map": "/fcc-quotes-app/static/css/main.210a532b.chunk.css.map",
+    "static/js/2.86756bdd.chunk.js.LICENSE.txt": "/fcc-quotes-app/static/js/2.86756bdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a5832e.js",
+    "static/js/2.86756bdd.chunk.js",
+    "static/css/main.210a532b.chunk.css",
+    "static/js/main.b7b00fdf.chunk.js"
+  ]
+}
